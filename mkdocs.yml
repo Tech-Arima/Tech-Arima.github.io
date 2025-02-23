@@ -77,7 +77,7 @@ edit_uri: edit/main/docs/
 # [top-right corner]
 # [添加 GitHub 仓库]
 # https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/
-repo_url: aaa
+repo_url: https://tech-arima.github.io
 repo_name: aaa
 # [bottom-left corner]
 # [版权说明]

@@ -1,2 +1,2 @@
 # Arima的网站
-- 我的网站：tech-arima.github.io
+- 我的网站：https://tech-arima.github.io

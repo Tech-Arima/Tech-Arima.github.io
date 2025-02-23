@@ -20,4 +20,4 @@ theme:
         icon: material/weather-sunny
         name: 切换至日间模式
 
-language: zh
+  language: zh

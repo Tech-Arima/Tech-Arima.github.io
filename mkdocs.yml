@@ -1,4 +1,23 @@
-site_name: My site
+site_name: Arima的网站
 site_url: https://tech-arima.github.io
 theme:
   name: material
+
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: orange
+      toggle:
+
+        icon: material/weather-night
+
+        name: 切换至夜间模式
+  # 夜间模式
+   - scheme: slate
+      primary: indigo
+      accent: orange
+      toggle:
+        icon: material/weather-sunny
+        name: 切换至日间模式
+
+language: zh

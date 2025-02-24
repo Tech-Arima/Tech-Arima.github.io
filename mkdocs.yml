@@ -4,7 +4,7 @@ site_url: https://tech-arima.github.io
 ######### 导航栏
 nav:
   - 博客:
-    - blog/index.md 
+    - Blog/index.md 
 
   
   - 随笔:
@@ -47,9 +47,7 @@ theme:
 
 #############一些插件
 plugins:
-  - blog:
-      #添加日期
-      post_url_date_format: yyyy/MM/dd
+
 
 # 添加外部链接
 extra:

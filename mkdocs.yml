@@ -47,6 +47,12 @@ theme:
 
   language: zh
 
+#############一些插件
+plugins:
+  - blog:
+      #添加日期
+      post_url_date_format: yyyy/MM/dd
+
 # 添加外部链接
 extra:
   social: # icons

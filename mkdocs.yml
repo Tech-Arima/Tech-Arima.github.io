@@ -4,7 +4,8 @@ site_url: https://tech-arima.github.io
 ######### 导航栏
 nav:
   - 博客:
-    - Blog/index.md 
+    - Blog/index.md
+    - Blog/posts/First post.md
 
   
   - 随笔:

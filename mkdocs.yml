@@ -1,5 +1,20 @@
 site_name: Arima的网站
 site_url: https://tech-arima.github.io
+
+######### 导航栏
+nav:
+  - 博客:
+    - Blog/index.md 
+
+  - 研究:
+    - Research/index.md
+  
+  - 随笔:
+    - Diary/index.md
+
+
+
+######### 主题设置
 theme:
   name: material
 
@@ -19,6 +34,16 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: 切换至日间模式
+
+  features:
+  #上面导航栏
+    - navigation.tabs
+    #返回顶部
+    - navigation.top
+    #导航路径
+    - navigation.path
+    #添加介绍页
+    - navigation.indexes
 
   language: zh
 

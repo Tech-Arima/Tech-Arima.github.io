@@ -36,7 +36,7 @@ theme:
         name: 切换至日间模式
 
   features:
-  #上面导航栏
+    #上面导航栏
     - navigation.tabs
     #返回顶部
     - navigation.top
@@ -46,6 +46,16 @@ theme:
     - navigation.indexes
 
   language: zh
+
+# 添加外部链接
+extra:
+  social: # icons
+    - name: GitHub | Tech-Arima
+      icon: fontawesome/brands/github
+      link: https://github.com/Tech-Arima
+    - name: Bilibili | 花樱茉莉
+      icon: fontawesome/brands/bilibili
+      link: https://space.bilibili.com/280082543
 
 
 copyright: 范宇翔 CC-BY-4.0

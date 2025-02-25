@@ -5,7 +5,7 @@ site_url: https://tech-arima.github.io
 nav:
   - 博客:
     - Blog/index.md
-    - 第一个: Blog/posts/First post.md
+    - 域名及子域名的设置: Blog/posts/域名及子域名的设置.md
 
   
   - 随笔:
